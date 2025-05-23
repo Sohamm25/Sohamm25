@@ -7,6 +7,7 @@
 - 💬 Ask me about: `Python`, `ML`, `DL`, `TensorFlow`, `Streamlit`  
 - 🌐 Here is my portfolio: [http://sohamai.ct.ws/](http://sohamai.ct.ws/)  
 - 📫 Reach me at: **sohamp2573@gmail.com**
+- 📜 Check out my **certifications here**: [Soham's Certifications](https://drive.google.com/drive/folders/1GViWHCB2bckusdP7wbIjIBvraXn39IoD?usp=sharing)
 
 ---
 
