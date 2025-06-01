@@ -12,13 +12,23 @@
 ---
 
 ### 📌 Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![OCR](https://img.shields.io/badge/-OCR-333?style=flat)
+![LLM](https://img.shields.io/badge/-LLM-333?style=flat)
+![RAG](https://img.shields.io/badge/-RAG-333?style=flat)
+![Command Line](https://img.shields.io/badge/-CLI-333?style=flat&logo=gnubash)
+![WordPress](https://img.shields.io/badge/-WordPress-333?style=flat&logo=wordpress)
 
 ---
 
