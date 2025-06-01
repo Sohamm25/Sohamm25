@@ -1,27 +1,54 @@
 <div align="center">
 
-# Soham Pawar
-**AI/ML Engineer & Computer Science Student**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soham%20Pawar&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI/ML%20Engineer%20%26%20Computer%20Science%20Student&descAlignY=51&descAlign=50"/>
 
-*Specializing in Generative AI, Deep Learning & Computer Vision*
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=flat-square&logoColor=white)](http://sohamai.ct.ws/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-pawar-b008b52ba/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sohamm25)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sohamp2573@gmail.com)
+<table>
+<tr>
+<td align="center" width="50%">
 
----
+### 🚀 **Professional Focus**
+```yaml
+Role: AI/ML Engineer
+Specialization: Generative AI
+Current: Final-year CSE Student
+Location: Maharashtra, India
+```
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 **Expertise Areas**
+• **Large Language Models**  
+• **Deep Learning & Computer Vision**  
+• **Natural Language Processing**  
+• **AI Systems Development**  
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="http://sohamai.ct.ws/"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=safari&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/soham-pawar-b008b52ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Sohamm25"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:sohamp2573@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
 
-## About Me
+## Professional Summary
 
-I'm a final-year Computer Science Engineering student at Dr. Babasaheb Ambedkar Technological University, passionate about building intelligent systems that solve real-world problems. Currently focused on advancing my expertise in Large Language Models and cloud computing while developing AI-powered applications.
+Passionate AI/ML Engineer and final-year Computer Science student with a strong foundation in generative AI and deep learning. Experienced in developing end-to-end AI solutions, from model training to deployment. Currently working on cutting-edge projects involving Large Language Models and computer vision applications.
 
-**🎯 Current Focus:** Building AI-powered insurance claim analyzer and mastering advanced LLM techniques  
-**📍 Location:** Satara, Maharashtra, India  
-**🎓 Education:** Computer Science Engineering  
-**💼 Interests:** Generative AI • Deep Learning • Computer Vision • NLP  
+**Current Endeavors:**
+- 🔬 Developing AI-powered insurance claim analysis system
+- 📚 Mastering advanced LLM architectures and fine-tuning techniques
+- 🌐 Contributing to open-source AI projects
+- 🎯 Preparing for career transition into AI/ML industr
+
+---
 
 ## 🏆 Achievements & Certifications
 
