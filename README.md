@@ -27,25 +27,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
-
-## Professional Profile
-
-I am a dedicated Computer Science Engineering student at Dr. Babasaheb Ambedkar Technological University, specializing in artificial intelligence and machine learning. With hands-on experience in developing AI-powered applications and a strong foundation in deep learning frameworks, I'm passionate about leveraging technology to create innovative solutions.
-
-### Core Competencies
-- **Artificial Intelligence:** Large Language Models, Neural Networks, Computer Vision
-- **Machine Learning:** Deep Learning, Natural Language Processing, Model Optimization  
-- **Development:** Python, TensorFlow, PyTorch, React, Flask
-- **Specialization:** Generative AI, RAG Systems, OCR Technology
-
-### Current Objectives
-🎯 **2024 Goals:** Master Generative AI architectures and cloud-native AI systems  
-🔭 **Active Project:** AI-powered insurance claim analyzer with multimodal capabilities  
-🌱 **Learning Path:** Advanced LLM fine-tuning and enterprise AI deployment  
-👥 **Collaboration:** Open to AI research projects and innovative startup opportunities
-
 ---
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
