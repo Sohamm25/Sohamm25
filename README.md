@@ -1,52 +1,50 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soham%20Pawar&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI/ML%20Engineer%20%26%20Computer%20Science%20Student&descAlignY=51&descAlign=50"/>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Soham+Pawar;AI%2FML+Engineer+%7C+Computer+Science+Student" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Generative_AI-blue?style=flat-square&logo=openai"/>
+  <img src="https://img.shields.io/badge/Studying-Computer_Science-green?style=flat-square&logo=graduation-cap"/>
+  <img src="https://img.shields.io/badge/Location-Maharashtra,_India-red?style=flat-square&logo=location-dot"/>
+</p>
+
+<div align="center">
+  <a href="http://sohamai.ct.ws/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-1f425f?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/soham-pawar-b008b52ba/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0e76a8?style=for-the-badge"/>
+  </a>
+  <a href="mailto:sohamp2573@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-c14438?style=for-the-badge"/>
+  </a>
+</div>
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🚀 **Professional Focus**
-```yaml
-Role: AI/ML Engineer
-Specialization: Generative AI
-Current: Final-year CSE Student
-Location: Maharashtra, India
-```
-
-</td>
-<td align="center" width="50%">
-
-### 🎯 **Expertise Areas**
-• **Large Language Models**  
-• **Deep Learning & Computer Vision**  
-• **Natural Language Processing**  
-• **AI Systems Development**  
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<a href="http://sohamai.ct.ws/"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=safari&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/soham-pawar-b008b52ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Sohamm25"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:sohamp2573@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-## Professional Summary
+## Professional Profile
 
-Passionate AI/ML Engineer and final-year Computer Science student with a strong foundation in generative AI and deep learning. Experienced in developing end-to-end AI solutions, from model training to deployment. Currently working on cutting-edge projects involving Large Language Models and computer vision applications.
+**AI/ML Engineer** | **Computer Science Student** | **Generative AI Specialist**
 
-**Current Endeavors:**
-- 🔬 Developing AI-powered insurance claim analysis system
-- 📚 Mastering advanced LLM architectures and fine-tuning techniques
-- 🌐 Contributing to open-source AI projects
-- 🎯 Preparing for career transition into AI/ML industr
+I am a dedicated Computer Science Engineering student at Dr. Babasaheb Ambedkar Technological University, specializing in artificial intelligence and machine learning. With hands-on experience in developing AI-powered applications and a strong foundation in deep learning frameworks, I'm passionate about leveraging technology to create innovative solutions.
+
+### Core Competencies
+- **Artificial Intelligence:** Large Language Models, Neural Networks, Computer Vision
+- **Machine Learning:** Deep Learning, Natural Language Processing, Model Optimization  
+- **Development:** Python, TensorFlow, PyTorch, React, Flask
+- **Specialization:** Generative AI, RAG Systems, OCR Technology
+
+### Current Objectives
+🎯 **2024 Goals:** Master Generative AI architectures and cloud-native AI systems  
+🔭 **Active Project:** AI-powered insurance claim analyzer with multimodal capabilities  
+🌱 **Learning Path:** Advanced LLM fine-tuning and enterprise AI deployment  
+👥 **Collaboration:** Open to AI research projects and innovative startup opportunities  
 
 ---
 
