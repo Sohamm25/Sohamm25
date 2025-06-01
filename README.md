@@ -1,14 +1,46 @@
-<h1 align="left">Hi 👋, I'm Soham Pawar</h1>
+<div align="center">
+  
+# Hi 👋, I'm Soham Pawar
 
-- 🎓 Final-year Computer Science Engineering student  
-- 🤖 Currently working on **Generative AI** and **Deep Learning**  
-- 🧠 Learning: **LLMs**, **Cloud Computing**, and **AI Systems**  
-- 💬 Ask me about: `Python`, `ML`, `DL`, `TensorFlow`, `Streamlit`  
-- 🌐 Here is my portfolio: [http://sohamai.ct.ws/](http://sohamai.ct.ws/)  
-- 📫 Reach me at: **sohamp2573@gmail.com**
-- 📜 Check out my **certifications here**: [Soham's Certifications](https://drive.google.com/drive/folders/1GViWHCB2bckusdP7wbIjIBvraXn39IoD?usp=sharing)
+### 🤖 AI/ML Engineer | 🎓 Computer Science Student | 🚀 Gen AI Enthusiast
 
----
+<p align="center">
+  <a href="http://sohamai.ct.ws/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/soham-pawar-b008b52ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Sohamm25"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:sohamp2573@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## 🚀 About Me
+
+```yaml
+name: Soham Pawar
+located_in: Satara, Maharashtra, India
+current_job: Final-year CSE Student
+education: ["Computer Science Engineering", "Dr. Babasaheb Ambedkar Technological University"]
+fields_of_interests: ["Generative AI", "Deep Learning", "Computer Vision", "NLP"]
+currently_learning: ["LLMs", "Cloud Computing", "AI Systems"]
+2024_goals: ["Master Gen AI", "Build AI Products", "Contribute to Open Source"]
+hobbies: ["Coding", "Chess", "Fitness", "Cricket", "Traveling"]
+```
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+![TensorFlow Developer](https://img.shields.io/badge/TensorFlow-Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Specialization_by_Andrew_Ng-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Goldman Sachs](https://img.shields.io/badge/Goldman_Sachs-Software_Engineering_Simulation-000000?style=for-the-badge&logo=goldmansachs&logoColor=white)
+
+🏆 **Winner** - KBP Aptitude Idol 2023
+
+📜 [**View All Certifications**](https://drive.google.com/drive/folders/1GViWHCB2bckusdP7wbIjIBvraXn39IoD?usp=sharing)
+
+</div>
 
 ## 🚀 Tech Stack
 
@@ -43,13 +75,101 @@
 ![Retrieval Augmented Generation](https://img.shields.io/badge/RAG-45B7D1?style=for-the-badge&logo=retrieval-augmented-generation&logoColor=white)
 ![Optical Character Recognition](https://img.shields.io/badge/OCR-96CEB4?style=for-the-badge&logo=optical-character-recognition&logoColor=white)
 
+## 💼 Featured Projects
+
+<div align="center">
+  
+[![AutoClaimX](https://img.shields.io/badge/AutoClaimX-AI_Insurance_Analyzer-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/Sohamm25)
+[![PrepAhead](https://img.shields.io/badge/PrepAhead-Smart_Career_Hub-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white)](https://prepahead-mern-project.onrender.com/)
+[![GenAI Colorization](https://img.shields.io/badge/GenAI-Image_Colorization-45B7D1?style=for-the-badge&logo=image&logoColor=white)](https://github.com/Sohamm25)
+[![Multi-PDF Chat](https://img.shields.io/badge/Multi_PDF-Chat_System-96CEB4?style=for-the-badge&logo=chat&logoColor=white)](https://github.com/Sohamm25)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sohamm25&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamm25&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sohamm25&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sohamm25&custom_title=Soham's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true)
+
+</div>
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sohamm25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 📈 Contribution Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Sohamm25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sohamm25&theme=tokyonight&hide_border=true)<br/>
+
+</div>
+
+## 🎯 Current Focus
+
+```python
+class SohamPawar:
+    def __init__(self):
+        self.name = "Soham Pawar"
+        self.role = "AI/ML Engineer"
+        self.language_spoken = ["en_US", "hi_IN", "mr_IN"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something amazing together.")
+        
+    def current_work(self):
+        return [
+            "🔭 Building AI-powered insurance claim analyzer",
+            "🌱 Learning advanced LLM techniques",
+            "👯 Looking to collaborate on AI projects",
+            "🎯 2024 Goals: Master Generative AI & Cloud Computing"
+        ]
+
+me = SohamPawar()
+me.say_hi()
+```
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+**💬 Ask me about:** `Python` `Machine Learning` `Deep Learning` `Generative AI` `Computer Vision`
+
+**📫 How to reach me:** 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](http://sohamai.ct.ws/)
+[![Email](https://img.shields.io/badge/Email-sohamp2573@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamp2573@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-pawar-b008b52ba/)
+
+</div>
+
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohamm25&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamm25&layout=compact&theme=transparent" height="150"/>
-</p>
-<p align="left">
-  <img src="https://ghchart.rshah.org/0099ff/Sohamm25" alt="Soham's GitHub Contributions Chart"/>
-</p>
+<div align="center">
+  
+### 💫 "Building the future with AI, one model at a time" 💫
+
+![Visitor Count](https://profile-counter.glitch.me/Sohamm25/count.svg)
+
+⭐️ From [Soham Pawar](https://github.com/Sohamm25)
+
+</div>
