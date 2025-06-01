@@ -1,32 +1,27 @@
 <div align="center">
-  
-# Hi 👋, I'm Soham Pawar
 
-### 🤖 AI/ML Engineer | 🎓 Computer Science Student | 🚀 Gen AI Enthusiast
+# Soham Pawar
+**AI/ML Engineer & Computer Science Student**
 
-<p align="center">
-  <a href="http://sohamai.ct.ws/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/soham-pawar-b008b52ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Sohamm25"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:sohamp2573@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+*Specializing in Generative AI, Deep Learning & Computer Vision*
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=flat-square&logoColor=white)](http://sohamai.ct.ws/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-pawar-b008b52ba/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sohamm25)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sohamp2573@gmail.com)
+
+---
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-```yaml
-name: Soham Pawar
-located_in: Satara, Maharashtra, India
-current_job: Final-year CSE Student
-education: ["Computer Science Engineering", "Dr. Babasaheb Ambedkar Technological University"]
-fields_of_interests: ["Generative AI", "Deep Learning", "Computer Vision", "NLP"]
-currently_learning: ["LLMs", "Cloud Computing", "AI Systems"]
-2024_goals: ["Master Gen AI", "Build AI Products", "Contribute to Open Source"]
-hobbies: ["Coding", "Chess", "Fitness", "Cricket", "Traveling"]
-```
+I'm a final-year Computer Science Engineering student at Dr. Babasaheb Ambedkar Technological University, passionate about building intelligent systems that solve real-world problems. Currently focused on advancing my expertise in Large Language Models and cloud computing while developing AI-powered applications.
+
+**🎯 Current Focus:** Building AI-powered insurance claim analyzer and mastering advanced LLM techniques  
+**📍 Location:** Satara, Maharashtra, India  
+**🎓 Education:** Computer Science Engineering  
+**💼 Interests:** Generative AI • Deep Learning • Computer Vision • NLP  
 
 ## 🏆 Achievements & Certifications
 
