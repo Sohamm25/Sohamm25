@@ -30,17 +30,17 @@
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
+![TensorFlow](https://img.shields.io/badge/-TENSORFLOW-gray?style=for-the-badge&logo=tensorflow)
+![Developer Certificate](https://img.shields.io/badge/-DEVELOPER%20CERTIFICATE-orange?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/-DEEP%20LEARNING-blue?style=for-the-badge)
+![Specialization](https://img.shields.io/badge/-SPECIALIZATION-blueviolet?style=for-the-badge)
+![Goldman Sachs](https://img.shields.io/badge/-GOLDMAN%20SACHS-lightgray?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/-SOFTWARE%20ENGINEERING-black?style=for-the-badge)
 
-![TensorFlow Developer](https://img.shields.io/badge/TensorFlow-Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![Goldman Sachs](https://img.shields.io/badge/Goldman_Sachs-Software_Engineering-000000?style=for-the-badge&logo=goldmansachs&logoColor=white)
+🏅 **Winner – KBP Aptitude Idol 2023**  
+🏅 **Winner – KBP Programming Idol 2024**  
 
-
-- 🏆 **Winner** – KBP Aptitude Idol 2023  
-- 🏆 **Winner** – KBP Programming Idol 2024
-
-📜 [**View All Certifications**](https://drive.google.com/drive/folders/1GViWHCB2bckusdP7wbIjIBvraXn39IoD?usp=sharing)
+🔗 [**View All Certifications**](#)
 
 </div>
 
