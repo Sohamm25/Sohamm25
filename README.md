@@ -36,7 +36,9 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 ![Goldman Sachs](https://img.shields.io/badge/Goldman_Sachs-Software_Engineering-000000?style=for-the-badge&logo=goldmansachs&logoColor=white)
 
-🏆 **Winner** - KBP Aptitude Idol 2023
+
+- 🏆 **Winner** – KBP Aptitude Idol 2023  
+- 🏆 **Winner** – KBP Programming Idol 2024
 
 📜 [**View All Certifications**](https://drive.google.com/drive/folders/1GViWHCB2bckusdP7wbIjIBvraXn39IoD?usp=sharing)
 
