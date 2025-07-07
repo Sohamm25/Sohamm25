@@ -14,7 +14,7 @@
   <a href="http://sohamai.ct.ws/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-1f425f?style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/soham-pawar-b008b52ba/">
+  <a href="https://www.linkedin.com/in/sohamppawar/">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0e76a8?style=for-the-badge"/>
   </a>
   <a href="mailto:sohamp2573@gmail.com">
