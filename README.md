@@ -38,15 +38,12 @@
 
 <br><br>
 
-🏅 **Winner – KBP Aptitude Idol 2023**  
-🏅 **Winner – KBP Programming Idol 2024**
-
-</div>
+🥇 <strong>Winner – KBP Aptitude Idol 2023</strong>  
+🥇 <strong>Winner – KBP Programming Idol 2024</strong>
 
 <br>
 
-📜 [**View All Certifications**](https://drive.google.com/drive/folders/1GViWHCB2bckusdP7wbIjIBvraXn39IoD?usp=sharing)
-
+📜 <a href="https://drive.google.com/drive/folders/1GViWHCB2bckusdP7wbIjIBvraXn39IoD?usp=sharing"><strong>View All Certifications</strong></a>
 </div>
 
 ## 🚀 Tech Stack
